@@ -58,9 +58,9 @@ header > p {
     max-width: 500px;
     text-shadow: 2px 2px 0px #00000066;
     padding-right: 10px;
+    padding-bottom: 30px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 20px;
 }
 
 nav {
